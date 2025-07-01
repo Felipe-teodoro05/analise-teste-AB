@@ -66,9 +66,9 @@ A análise revelou um claro trade-off de performance entre as duas campanhas:
 
 A recomendação é a criação de uma campanha híbrida que combine os pontos fortes de ambas:
 
-1.Utilizar o criativo do anúncio da Campanha de Teste para maximizar a Taxa de Clique (CTR) e atrair um maior volume de visitantes para o site.
+1. Utilizar o criativo do anúncio da Campanha de Teste para maximizar a Taxa de Clique (CTR) e atrair um maior volume de visitantes para o site.
 
-2.Direcionar este tráfego para a página de produto e funil de checkout da Campanha de Controle, que comprovadamente converte visitantes em clientes de forma mais eficaz e a um custo menor.
+2. Direcionar este tráfego para a página de produto e funil de checkout da Campanha de Controle, que comprovadamente converte visitantes em clientes de forma mais eficaz e a um custo menor.
 
 Esta abordagem híbrida tem o potencial de otimizar o retorno sobre o investimento (ROI) ao capitalizar sobre a melhor performance de cada campanha em sua respectiva etapa do funil de marketing.
 

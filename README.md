@@ -1,4 +1,4 @@
-# 📊 Análise de Teste A/B para Otimização de Funil de Marketing
+# Análise de Teste A/B para Otimização de Funil de Marketing
 
 **Status do Projeto:** [Concluído]
 
